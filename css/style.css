@@ -68,3 +68,9 @@
     width: 100%;
     border-radius: 4px;
 }
+
+/* contact me */
+
+.contact .btn {
+    background-color: #1abc9c;
+}
