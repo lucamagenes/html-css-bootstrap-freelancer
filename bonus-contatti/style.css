@@ -17,6 +17,17 @@ label {
 }
 
 .btn {
-    background-color: #2c3e50;
+    background-color: #3a546d;
     color: white;
+}
+
+/* site footer */
+
+.site_footer {
+    background-color: #2c3e50;
+    color: #1abc9c;
+}
+
+.social {
+    color: #1abc9c;
 }
