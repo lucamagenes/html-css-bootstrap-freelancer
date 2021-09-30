@@ -69,6 +69,18 @@
     border-radius: 4px;
 }
 
+.card, .card-img-overlay {
+    transition: all;
+}
+
+.card-img-overlay {
+    visibility: hidden;
+}
+
+.card:hover .card-img-overlay {
+    visibility: visible;
+}
+
 /* contact me */
 
 .contact .btn {
